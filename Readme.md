@@ -133,12 +133,25 @@ The insights obtained from this analysis can help businesses:
 ## Project Structure
 
 ```
-Diwali-Sales-Analysis
+Diwali-Sales-Analysis/
 │
-├── Diwali_Analysis.ipynb
+├── images/
+│   ├── age_group_analysis.png
+│   ├── gender_analysis.png
+│   ├── occupation_analysis.png
+│   ├── state_analysis.png
+│   └── product_category_analysis.png
+│
+├── data/
+│   └── diwali_sales_data.csv
+│
+├── notebooks/
+│   └── diwali_sales_analysis.ipynb
+│
+├── docs/
+│   └── problem_statement.pdf
+│
 ├── README.md
-├── Images
-└── Output Charts
 ```
 
 ---
