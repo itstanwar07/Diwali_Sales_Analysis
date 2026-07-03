@@ -136,20 +136,23 @@ The insights obtained from this analysis can help businesses:
 Diwali-Sales-Analysis/
 │
 ├── images/
-│   ├── age_group_analysis.png
-│   ├── gender_analysis.png
-│   ├── occupation_analysis.png
-│   ├── state_analysis.png
-│   └── product_category_analysis.png
+│  ├── Age_group_Wise_chart.png
+│   ├── diwali_sales_analysis-summary_dashboard.png
+│   ├── gender_wise_performance_chart.png
+│   ├── Geographic_sales_distribution.png
+│   ├── marital_status_and_gender_sales.png
+│   ├── Occupation_wise_sales.png
+│   ├── product_category_performance.png
+│   └── Revenue_by_age_group_&_gender.png
 │
-├── data/
-│   └── diwali_sales_data.csv
+├── Data/
+│   └── Diwali Sales Data.csv
 │
-├── notebooks/
-│   └── diwali_sales_analysis.ipynb
+├── Notebooks/
+│   └── Diwali_Analysis_Project-1.ipynb
 │
-├── docs/
-│   └── problem_statement.pdf
+├── Docs/
+│   └── problem_statement.pdf(Diwali_Sales_Analysis.pdf)
 │
 ├── README.md
 ```
